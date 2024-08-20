@@ -1,0 +1,9 @@
+Walkthrough of the Hacktoria challenge "The Michigan Mystery"
+
+After reading through the introductory text the aim of the challenge is to identity a location from the provided image and use that to create the password to unlock the flag file in the format one_two_three
+
+The image shows a portion of a stone bridge structure, grasslands and a wooden hut beyond a stream with a second stone bridge crossing it 
+
+I have to admit this was a quick Google lens search which pretty much brought up the same image but slightly different angle, however on checking pertient point, pattern of stonework, orientation of hut etc it was clear that the location was Glen_Eyrie_Castle
+
+Boom badge unlocked
